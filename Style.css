@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    font-family: Helvetica;
+    font-size: 16px;
+    color: #000;
+    background-color: #f7f7f7;
+}
+
+h3 {
+    color: #3877d9;
+}
+
+table {
+    border-spacing: 0px 10px;
+    padding: 10px;
+}
+
+tr {
+    vertical-align: top;
+}
+
+.content {
+    background-color: #e6e6e6;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;
+    border: 1px solid #000;
+    border-color: #959595;
+    padding: 0px;
+    width: 96%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
